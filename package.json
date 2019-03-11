@@ -11,8 +11,8 @@
   "author": "Stuart Sackler",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^3.5.1",
-    "lite-server": "^2.3.0",
-    "node-sass": "^4.7.2"
+    "concurrently": "^3.6.1",
+    "lite-server": "^2.4.0",
+    "node-sass": "^4.11.0"
   }
 }
